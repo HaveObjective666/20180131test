@@ -1,5 +1,2 @@
 this is first txt
-
-this  is first update
-
-this is second update
+this is master first txt
